@@ -2,7 +2,7 @@
 - 👀 I’m Studing systems engineer
 - 🌱 I have 21 years old 
 - 💞️ I'm looking for friends to program
-- 📫 System.out.println("WELCOME USUARIO \n"); 
+- 📫 System.out.println("WELCOME USER \n"); 
 
 <!---
 GioX-16/GioX-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
